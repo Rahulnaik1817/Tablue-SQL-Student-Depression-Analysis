@@ -1,0 +1,28 @@
+# Student Depression Analysis – Project Requirements
+
+## Software Requirements
+- Tableau Desktop or Tableau Public
+- Microsoft SQL Server / SQL Server Management Studio (SSMS)
+- Git
+- GitHub account
+
+## Data Requirements
+- Depression+Student+Dataset.csv
+- Stundet Depresseion sql query.sql
+
+## Tableau Requirements
+- Connect Tableau to the student dataset or SQL Server database.
+- Create worksheets for sleep duration, study hours, study satisfaction, academic pressure, and financial stress.
+- Combine the worksheets into the Student Depression Analysis dashboard.
+
+## SQL Requirements
+- SQL Server / T-SQL is recommended because the supplied SQL script uses SQL Server syntax.
+- SQL Server 2019 or later is recommended.
+- SQL Server Management Studio (SSMS) is recommended for executing the SQL script.
+
+## Optional
+- Tableau Public account for publishing the dashboard online.
+- Git for version control and GitHub for portfolio hosting.
+
+## Python
+Python is not required to reproduce this project.
