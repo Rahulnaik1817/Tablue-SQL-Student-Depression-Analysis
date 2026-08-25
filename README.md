@@ -1,6 +1,6 @@
 # 📊 Student Depression Analysis – Tableau Dashboard
 
-![Student Depression Analysis Dashboard](dashboard.png)
+<img width="1386" height="840" alt="Image" src="https://github.com/user-attachments/assets/27a166b7-b9da-4339-aa1c-5a2a78757895" />
 
 ## 📌 Project Overview
 
@@ -169,8 +169,6 @@ The script contains operations for:
 - The dashboard can be used to explore relationships between academic/lifestyle factors and depression outcomes.
 
 These observations represent patterns in the dataset and **do not establish causation**.
-
-![Student Depression Analysis Dashboard](dashboard.png)
 
 ## 🚀 How to Reproduce the Project
 
