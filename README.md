@@ -1,6 +1,6 @@
 # 📊 Student Depression Analysis – Tableau Dashboard
 
-![Tablue](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tablue](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=tablue&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-1f4e79?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
