@@ -1,4 +1,4 @@
-# 📊 Student Depression Analysis – Tableau Dashboard
+# 📊 Student Depression Analysis – Tableau Dashboard using SQL Server
 
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-gold?style=for-the-badge&labelColor=555555)
 ![Data](https://img.shields.io/badge/Data-Analytics-1f4e79?style=for-the-badge&labelColor=555555)
